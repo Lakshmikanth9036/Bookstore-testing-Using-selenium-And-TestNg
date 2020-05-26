@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16453" started-at="2020-05-26T12:19:43Z" finished-at="2020-05-26T12:19:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16453" started-at="2020-05-26T12:19:43Z" finished-at="2020-05-26T12:19:59Z">
+      <class name="com.bridgelabz.bookstore.LoginRegistrationTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.bridgelabz.bookstore.LoginRegistrationTest@47c62251]" name="openBrowser" is-config="true" duration-ms="7219" started-at="2020-05-26T12:19:43Z" finished-at="2020-05-26T12:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.bridgelabz.bookstore.LoginRegistrationTest@47c62251]" name="login" duration-ms="9077" started-at="2020-05-26T12:19:50Z" finished-at="2020-05-26T12:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.bridgelabz.bookstore.LoginRegistrationTest@47c62251]" name="closeBrowser" is-config="true" duration-ms="142" started-at="2020-05-26T12:19:59Z" finished-at="2020-05-26T12:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.bridgelabz.bookstore.LoginRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
